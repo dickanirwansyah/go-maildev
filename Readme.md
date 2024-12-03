@@ -1,4 +1,4 @@
-# create project 
+# how to init project
 1. mkdir go-send-mail
 2. init project go `go mod init gosendmail`
 3. install dependency 
